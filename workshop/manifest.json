@@ -201,6 +201,14 @@
             "filename": "./../adb-automatic-indexing/adb-automatic-indexing.md"
         },
         {         
+            "title": "Lab 26: Move to ADB",
+            "description": "Move to ADB",
+            "partnumber": "Ennnnn_01",
+            "publisheddate": "07/06/2020",
+            "contentid": "12nnnn",
+            "filename": "./../adb-mv2adb/MV2ADB.md"
+        },
+        {         
             "title": "Appendix",
             "description": "Common tools for windows Users Finding the IP address of your AEI Cluster.",
             "partnumber": "Ennnnn_01",

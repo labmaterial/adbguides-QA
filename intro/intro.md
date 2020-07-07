@@ -33,6 +33,7 @@ Watch the video below for an overview of Autonomous Database Dedicated
 - Recover from user errors using flashback recovery
 - Setup monitoring events and notifications
 - Connect Oracle Analytics cloud with Autonomous Database Dedicated
+- Migrate workload to autonomous database using MV2ADB
 
 ## Lab Breakdown
 These hands-on lab guides provide step-by-step directions to setting up and using your dedicated Autonomous database platform in the Oracle Cloud Infrastructure and on Exadata Cloud@Customer
